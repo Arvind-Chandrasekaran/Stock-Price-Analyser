@@ -43,6 +43,8 @@
 ##### Secure Access: The Authentication Service manages access control for all incoming requests to the various services.
 ##### Deployment: All microservices are containerized with Docker and deployed on AWS ECS, which handles the lifecycle, scaling, and networking of the containers.
 
+
+## Links
 #### Analytics Microservice - https://github.com/Arvind-Chandrasekaran/SENG3011_OMEGA_Analytics
 #### Collection and Retrieval Microservice - https://github.com/AIS170/SENG3011_OMEGA
 #### Front End - https://github.com/AIS170/SENG3011_OMEGA_frontend
